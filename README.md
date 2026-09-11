@@ -46,14 +46,6 @@ Charts
 
 ---
 
-## Dashboard Preview
-
-(Add your screenshot here)
-
-![Dashboard](dashboard.png)
-
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
